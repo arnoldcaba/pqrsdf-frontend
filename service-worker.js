@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9abb22136867e3931e043d6d01bf7023.js"
+  "/precache-manifest.67775dbf14b03c83b2376864e09a6796.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "PQRSDF"});
